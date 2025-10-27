@@ -1,0 +1,2 @@
+../Core/Src/mfxstm32l152_reg.c:45:9:mfxstm32l152_read_reg	1
+../Core/Src/mfxstm32l152_reg.c:57:9:mfxstm32l152_write_reg	1
